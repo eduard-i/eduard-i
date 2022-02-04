@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Eduard</h1>
-<h3 align="center">A passionate Junior Front End Developer from Italy</h3>
+<h3 align="center">A passionate Web Developer from Italy</h3>
 
 <br>
 
