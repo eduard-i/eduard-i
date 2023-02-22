@@ -10,6 +10,24 @@ I am currently expanding my knowledge of web programming and honing my skills as
 
 <br>
 
+<h3>My Projects 💻</h3>
+
+All of my projects, including those that utilize Angular and MongoDB, can be found on my GitHub profile at https://github.com/eduard-i. Each project demonstrates my skills and expertise in web programming, and I am always looking for new opportunities to collaborate and expand my portfolio.
+
+<br>
+
+<h3>Ask Me About 💬</h3>
+
+If you have any questions about markup languages, JS, TS, Angular, or MongoDB, feel free to ask me. As a fullstack developer, I am well-versed in a variety of technologies and can offer insights and advice on a range of topics related to web programming.
+
+<br>
+
+<h3>How to Reach Me 📫</h3>
+
+If you would like to connect or discuss a potential collaboration, please feel free to reach out to me at eduard.iacob@icloud.com. I am always open to new opportunities and eager to connect with others in the web development community.
+
+<br>
+
 <h3 align="left">👥 Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eduard-alexandru-iacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduard-alexandru-iacob" height="30" width="40" /></a>
