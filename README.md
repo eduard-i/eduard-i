@@ -1,19 +1,12 @@
-<h1 align="center">👋 Hi, I'm Eduard</h1>
-<h3 align="center">A passionate Web Developer from Italy</h3>
+<h1 align="center">Hi there, I'm Eduard! 👋</h1>
 
 <br>
 
-<h3>🙋‍♂️ Here is some information about me:</h3>
+I am a fullstack developer with a passion for using Angular and MongoDB to create dynamic and engaging web applications. With a focus on becoming a better developer, I am always exploring new techniques and approaches to web programming.
 
-- 🔭 I’m currently working on **becoming a better Developer**
+<h3>What I'm Currently Learning 📚</h3>
 
-- 📚 I’m currently learning: **Web Programming**
-
-- 👨‍💻 All of my projects are available at: [https://github.com/eduard-i](https://github.com/eduard-i)
-
-- 💬 Ask me about: **Markup Languages, JS, TS and Angular**
-
-- 📫 How to reach me: **eduard.iacob@icloud.com**
+I am currently expanding my knowledge of web programming and honing my skills as a fullstack developer. I am particularly interested in exploring new ways to use Angular and MongoDB together to create robust and scalable web applications.
 
 <br>
 
